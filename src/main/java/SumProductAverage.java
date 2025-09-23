@@ -14,7 +14,8 @@ public class SumProductAverage
     {
         Scanner sc = new Scanner(System.in);
         double var1, var2, var3, numRuns;
-        for(int i=0; i<3;i++)
+        numRuns = sc.nextInt();
+        for(int i=0; i<numRuns;i++)
         {
             var1 = sc.nextDouble();
             var2 = sc.nextDouble();
