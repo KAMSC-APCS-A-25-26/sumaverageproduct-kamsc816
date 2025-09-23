@@ -8,7 +8,7 @@
 // PEOPLE WHO HELPED ME     :       Mr. Houtrouw, Brady Winther-McGinnis
 import java.util.Scanner;
 
-public class Main
+public class SumProductAverage
 {
     public static void main(String[] args)
     {
