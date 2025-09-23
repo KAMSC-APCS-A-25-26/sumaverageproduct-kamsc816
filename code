@@ -8,14 +8,13 @@
 // PEOPLE WHO HELPED ME     :       Mr. Houtrouw, Brady Winther-McGinnis
 import java.util.Scanner;
 
-public class SumProductAverage
+public class Main
 {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
         double var1, var2, var3, numRuns;
-        numRuns = sc.nextInt();
-        for(int i=0; i<numRuns;i++)
+        for(int i=0; i<3;i++)
         {
             var1 = sc.nextDouble();
             var2 = sc.nextDouble();
